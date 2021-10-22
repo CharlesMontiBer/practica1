@@ -1,0 +1,26 @@
+.formulario{
+    height: 400px;
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(
+        rgba(13, 12, 59, 0.644),
+        rgba(13, 12, 59, 0.644)
+        ),
+    url("https://www.securitasdirect.es/blog/wp-content/uploads/2021/06/jan-kopriva-_s5qrtDzwHs-unsplash-scaled.jpg");
+    background-size: cover;
+    /*filter: blur(2px);*/
+    color: whitesmoke;
+}
+.miniespacio{
+    padding-top: 10%;
+}
+.form-control{
+    width: 70%;
+}
+.espacioRegistro{
+    padding-top: 5%;
+}
+.espacioIniciarsesion{
+    padding-top: 15%;
+}
